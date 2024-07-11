@@ -1,6 +1,6 @@
-### Helloooow !!
+  ##### Helloooow ✌️!!
 
-- 👋 Hi, I’m @danielkembeu
+- 👋 Hi, I’m @daniel
 - 👀 I’m interested in Sotfware Development & Graphic/UI Design
 - 🌱 I’m currently learning Data Science & Analysis
 - 💞️ I’m looking to collaborate on projects that could make me strenghten my skills
