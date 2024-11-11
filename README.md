@@ -1,19 +1,11 @@
-<!--
-  ### Helloooow ✌️!!
-
-- 👋 Hi, I’m @daniel
-- 👀 I’m interested in Sotfware Development & Graphic/UI Design
-- 🌱 I’m currently learning Data Science & Analysis
--->
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel KEMBEU
 =====================================================================================================================================
 
 Instructor - Mobile/Web Developer - Junior Data analyst - UI Designer 
--------------------------------------------------------
+---------------------------------------------------------------------
 
 * 🌍  I'm based in Cameroun
-* ✉️  You can contact me at [danielkembeu82@gmail.com](mailto:danielkembeu82@gmail.com) or [kembeudaniel@gmail.com](mailto:kembeudaniel@gmail.com)
+* ✉️  You can contact me at Dev:[danielkembeu82@gmail.com](mailto:danielkembeu82@gmail.com) or Pro:[kembeudaniel@gmail.com](mailto:kembeudaniel@gmail.com)
 * 🧠  I'm learning C#, Backend Dev with FastAPI and Data Analytics
 * 💞️ I’m looking to collaborate on projects that could make me strenghten my skills
 * 🤝  I'm open to collaborating on React Native Mobile App - Nextjs Web app
