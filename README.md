@@ -13,14 +13,11 @@ Mobile/Web Developer - Junior Data analyst - Instructor
 -------------------------------------------------------
 
 * 🌍  I'm based in Cameroun
-* ✉️  You can contact me at [danielkembeu82@gmail.com](mailto:danielkembeu82@gmail.com)
+* ✉️  You can contact me at [danielkembeu82@gmail.com](mailto:danielkembeu82@gmail.com) or [kembeudaniel@gmail.com](mailto:kembeudaniel@gmail.com)
 * 🧠  I'm learning C#, Backend Dev with FastAPI and Data Analytics
 * 💞️ I’m looking to collaborate on projects that could make me strenghten my skills
 * 🤝  I'm open to collaborating on React Native Mobile App - Nextjs Web app
 * 😄 Pronouns: Meticulous, Professional, Hard Worker, Polite, Quick Learn
-*  📫 How to reach me Email:
-  - Dev-only-mail: danielkembeu82@gmail.com
-  - Professional-mail: kembeudaniel@gmail.com
 * ⚡ Fun fact: BasketBall, Swiming, Reading, Drawing
 
 ### Skills
