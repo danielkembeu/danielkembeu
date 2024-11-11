@@ -9,7 +9,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel KEMBEU
 =====================================================================================================================================
 
-Mobile/Web Developer - Junior Data analyst - Instructor
+Instructor - Mobile/Web Developer - Junior Data analyst - UI Designer 
 -------------------------------------------------------
 
 * 🌍  I'm based in Cameroun
