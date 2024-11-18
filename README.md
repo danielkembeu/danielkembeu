@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Instructor - Mobile Developer - Partial< Web > - Backend Developer- Junior Data analyst - UI Designer 
 ---------------------------------------------------------------------
 
-* 🌍  I'm based in Cameroun
+* 🌍  I'm based in Cameroon
 * ✉️  You can contact me at Dev:[danielkembeu82@gmail.com](mailto:danielkembeu82@gmail.com) or Pro:[kembeudaniel@gmail.com](mailto:kembeudaniel@gmail.com)
 * 🧠  I'm learning C#, Backend Dev with FastAPI and Data Analytics
 * 💞️ I’m looking to collaborate on projects that could make me strenghten my skills
