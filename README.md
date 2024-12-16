@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel KEMBEU
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KEMBEU Daniel
 =====================================================================================================================================
 
-Instructor - Mobile Developer - Partial< Web > - Backend Developer- Junior Data analyst - UI Designer 
+Instructor - Mobile & Web Developer - Backend Developer- Junior Data analyst - UI Designer 
 ---------------------------------------------------------------------
 
-* 🌍  I'm based in Cameroon
-* ✉️  You can contact me at Dev:[danielkembeu82@gmail.com](mailto:danielkembeu82@gmail.com) or Pro:[kembeudaniel@gmail.com](mailto:kembeudaniel@gmail.com)
+* 🌍 I'm based in Cameroon
+* ✉️ You can contact me at Dev:[danielkembeu82@gmail.com](mailto:danielkembeu82@gmail.com) or Pro:[kembeudaniel@gmail.com](mailto:kembeudaniel@gmail.com)
 * 💞️ I’m looking to collaborate on projects that could make me strenghten my skills
-* 🤝  I'm open to collaborating on React Native Mobile App - Nextjs Web app
+* 🤝 I'm open to collaborating on React Native Mobile App - Nextjs Web app
 * 😄 Pronouns: Meticulous, Professional, Hard Worker, Polite, Quick Learn
 * ⚡ Fun fact: BasketBall, Swiming, Reading, Drawing
 
