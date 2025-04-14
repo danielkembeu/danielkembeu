@@ -5,7 +5,7 @@ Instructor -  UIX Designer - Software Developer - Data analyst
 ---------------------------------------------------------------------
 
 * 🌍 I'm based in Cameroon
-* ✉️ You can contact me at Dev:[danielkembeu82@gmail.com](mailto:danielkembeu82@gmail.com) or Pro:[kembeudaniel@gmail.com](mailto:kembeudaniel@gmail.com)
+* ✉️ You can contact me at Dev:[kembeudaniel2@gmail.com](mailto:kembeudaniel2@gmail.com) or Pro:[kembeudaniel@gmail.com](mailto:kembeudaniel@gmail.com)
 * 🤝 I'm open to collaborating on softwares projects
 * 😄 Pronouns: Meticulous, Professional, Hard Worker, Polite, Quick Learner
 * ⚡ Fun fact: BasketBall, Swiming, Reading, Drawing
