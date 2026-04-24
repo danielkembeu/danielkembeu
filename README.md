@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 Instructor -  UIX Designer - React Developer (Mobile & Web) - Data analyst
----------------------------------------------------------------------
+--------------------------------------------------------------------------
 
 * 🌍 I'm based in Cameroon
 * ✉️ You can contact me at 677336579 - [braincraftworld@gmail.com](mailto:braincraftworld@gmail.com)
@@ -13,7 +13,7 @@ Instructor -  UIX Designer - React Developer (Mobile & Web) - Data analyst
 ### Skills
 
 
-<div>
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
@@ -69,7 +69,7 @@ Instructor -  UIX Designer - React Developer (Mobile & Web) - Data analyst
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
-</div>
+</p>
 
 
 ### Socials
