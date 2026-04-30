@@ -10,7 +10,6 @@ Instructor -  UIX Designer - React Developer (Mobile & Web) - Data analyst
 * 😄 Pronouns: Meticulous, Professional, Hard Worker, Polite, Quick Learner
 * ⚡ Fun fact: BasketBall, Swiming, Reading, Drawing, Gaming
 
-### Skills
 
 
 <!-- <p align="left">
